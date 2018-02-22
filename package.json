@@ -1,7 +1,7 @@
 {
   "name": "redux-blog",
   "version": "1.0.0",
-  "description": "A simple blog built with React/Redux/Redux-Router",
+  "description": "A simple blog built with React/Redux/React-Router",
   "main": "index.jsx",
   "repository": "git@github.com:jcelder/redux-blog.git",
   "scripts": {
