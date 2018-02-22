@@ -1,9 +1,9 @@
 {
-  "name": "redux-messageboard",
+  "name": "redux-blog",
   "version": "1.0.0",
-  "description": "A simple messageboard built with React/Redux/Redux-Router",
-  "main": "index.js",
-  "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
+  "description": "A simple blog built with React/Redux/Redux-Router",
+  "main": "index.jsx",
+  "repository": "git@github.com:jcelder/redux-blog.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
