@@ -32,12 +32,14 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "lodash": "^3.10.1",
     "react": "^0.14.9",
     "react-dom": "^0.14.9",
     "react-redux": "4.3.0",
     "react-router": "^2.8.1",
     "react-router-dom": "^4.0.0",
-    "redux": "^3.7.2"
+    "redux": "^3.7.2",
+    "redux-promise": "^0.5.3"
   }
 }
