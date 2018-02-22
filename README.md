@@ -1,25 +1,15 @@
-# ReduxSimpleStarter
+# Redux Message Board
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is a simple message board built with React and Redux-Router. It is based off of Stephen Grider's [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter/) boilerplate.
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Enter the following commands
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> git clone https://github.com/jcelder/redux-messageboard.git
 > cd ReduxSimpleStarter
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
